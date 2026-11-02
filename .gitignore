@@ -1,0 +1,7 @@
+.gradle/
+**/build/
+local.properties
+*.keystore
+*.jks
+dist/
+hikcamscan-source.tar.gz
